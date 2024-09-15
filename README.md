@@ -74,20 +74,3 @@ DevOps Skills: Docker, Nginx, Linux
 I have a strong foundation in building and maintaining robust web solutions, integrating APIs, and ensuring seamless deployment and performance across various platforms.  
 
 <br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AkisDark&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
