@@ -9,7 +9,7 @@
 
 <div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px;">
   <a href="https://www.php.net/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="100" />
   </a>
   <a href="https://laravel.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
