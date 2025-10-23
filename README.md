@@ -7,7 +7,7 @@
 
 ## My Skill Set
 
-<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px;">
+<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding: 20px;">
   <a href="https://www.php.net/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="100" />
   </a>
