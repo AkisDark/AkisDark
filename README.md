@@ -12,22 +12,22 @@
     <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="100" />
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="100" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="100" />
   </a>
   <a href="https://redis.io/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="100" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="100" />
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="100" />
   </a>
   <a href="https://www.nginx.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="100" />
   </a>
 </div>
 
